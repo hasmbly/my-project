@@ -1,6 +1,6 @@
+# Introduction 
 ![My Application Icon](https://i.stack.imgur.com/Wtyj2.png)
 
-# Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
 ![Alt text](azure_slider_image.png)
