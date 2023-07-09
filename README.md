@@ -1,5 +1,14 @@
+![My Application Icon](https://i.stack.imgur.com/Wtyj2.png)
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+
+![Alt text](azure_slider_image.png)
+
+``` js
+console.log("Run My Application...");
+console.log("Hello World");
+```
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
