@@ -1,2 +1,2 @@
-# Hello this is WIKI
-## Silahkan menulis dokumentasi untuk Aplikasi ini.
+# Hello this is Wiki about this Project
+## Silahkan menulis dokumentasi untuk Project ini.
