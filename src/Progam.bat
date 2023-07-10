@@ -1,2 +1,2 @@
 @echo off
-echo Hi, This is our Main Application by Person and by Hasbi
+echo Hi, This is our Main Application by Person and edited by Hasbi
